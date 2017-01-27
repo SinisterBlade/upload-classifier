@@ -1,0 +1,11 @@
+API   a6db7158a39f41250b12dfff5a46dc734a57b29a
+CLASSIFIER  pokemon_1170729253
+
+Zip file:
+    Name of zip file: "bulbasaur.zip"
+    Contents:
+        bulbasaur.zip
+            Bulbasaur/
+                1.jpg
+                2.jpeg
+                
