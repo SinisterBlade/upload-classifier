@@ -1,5 +1,30 @@
 API   a6db7158a39f41250b12dfff5a46dc734a57b29a
-CLASSIFIER  pokemon_1653640843
+CLASSIFIER  pokemon_938487669
+
+Currently supported:
+wartortle
+squirtle
+weedle
+sandslash
+sandshrew
+rattata
+raticate
+spearow
+kakuna
+pikachu
+pidgey
+pidgeotto
+metapod
+butterfree
+bulbasaur
+blastoise
+arbok
+charmeleon
+charmander
+charlizard
+caterpie
+fearow
+ekans
 
 Zip file:
     Name of zip file: "bulbasaur.zip"
